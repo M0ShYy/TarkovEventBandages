@@ -6,3 +6,4 @@ The data is totally open
 Please use this data at your will
 
 (I dont have all the data because I did not let run my script all the time)
+(but even with out all the data it may be usefull)
